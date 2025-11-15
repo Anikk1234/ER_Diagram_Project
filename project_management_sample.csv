@@ -1,0 +1,18 @@
+ProjectID,ProjectName,ProjectManagerID,ProjectManagerName,StartDate,DueDate,TaskID,TaskName,Status,AssignedEmployeeID,AssignedEmployeeName,AssignedEmployeeEmail,JobTitle,HoursAssigned
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T1,Design Mockups,Done,E20,Bob,bob@example.com,UI/UX Designer,40
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T2,Develop Homepage,In Progress,E30,Charlie,charlie@example.com,Developer,80
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T2,Develop Homepage,In Progress,E40,David,david@example.com,Developer,80
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T3,Setup Database,Done,E40,David,david@example.com,Developer,30
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T4,User Acceptance Testing,To Do,E50,Eve,eve@example.com,QA Tester,50
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T5,Plan Marketing Campaign,Done,E70,Grace,grace@example.com,Marketing Lead,60
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T6,Develop iOS App,In Progress,E30,Charlie,charlie@example.com,Developer,120
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T6,Develop iOS App,In Progress,E80,Heidi,heidi@example.com,Developer,120
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T7,Develop Android App,In Progress,E30,Charlie,charlie@example.com,Developer,120
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T7,Develop Android App,In Progress,E80,Heidi,heidi@example.com,Developer,120
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T8,API Development,Done,E40,David,david@example.com,Developer,100
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T9,Quality Assurance,To Do,E50,Eve,eve@example.com,QA Tester,80
+P303,Q3 Financial Report,E90,Ivan,2025-07-01,2025-08-31,T10,Gather Sales Data,Done,E100,Judy,judy@example.com,Analyst,25
+P303,Q3 Financial Report,E90,Ivan,2025-07-01,2025-08-31,T11,Analyze Expenses,In Progress,E100,Judy,judy@example.com,Analyst,40
+P303,Q3 Financial Report,E90,Ivan,2025-07-01,2025-08-31,T12,Draft Report,To Do,E90,Ivan,ivan@example.com,Finance Manager,30
+P101,Website Redesign,E10,Alice,2025-01-15,2025-06-30,T1,Design Mockups,Done,E25,Mallory,mallory@example.com,UI/UX Designer,40
+P202,Mobile App Launch,E60,Frank,2025-03-01,2025-09-15,T9,Quality Assurance,To Do,E55,Walter,walter@example.com,QA Tester,80
