@@ -70,7 +70,6 @@ The project is organized into the following main directories and files:
 |   |-- step_04_3nf_decomposition.py
 |   `-- step_05_ER_Chen_Export.py
 |-- main_app_qt.py            # The main entry point for the PyQt5 GUI application
-|-- requirements.txt          # A list of Python packages required for the project
 |-- university_enrollment_sample.csv # A sample CSV file to demonstrate the app
 `-- DOCUMENTATION.md          # This documentation file
 ```
