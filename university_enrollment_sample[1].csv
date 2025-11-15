@@ -1,0 +1,63 @@
+StudentID,StudentName,StudentEmail,Major,CourseID,CourseName,Credits,InstructorID,InstructorName,InstructorEmail,Department,EnrollmentDate,Grade
+S001,Alice Johnson,alice.j@university.edu,Computer Science,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-15,A
+S002,Bob Williams,bob.w@university.edu,Data Science,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-16,B
+S003,Charlie Brown,charlie.b@university.edu,Computer Science,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-01-17,A
+S001,Alice Johnson,alice.j@university.edu,Computer Science,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-01-18,B
+S004,Diana Prince,diana.p@university.edu,History,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-01-19,A
+S005,Eve Adams,eve.a@university.edu,Physics,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-01-20,A
+S001,Alice Johnson,alice.j@university.edu,Computer Science,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-01-21,C
+S002,Bob Williams,bob.w@university.edu,Data Science,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-22,B
+S003,Charlie Brown,charlie.b@university.edu,Computer Science,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-23,B
+S004,Diana Prince,diana.p@university.edu,History,HIS202,Renaissance History,3,I30,Dr. Allen,allen@university.edu,History,2025-01-24,B
+S006,Frank Miller,frank.m@university.edu,Physics,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-01-25,C
+S007,Grace Hopper,grace.h@university.edu,Computer Science,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-26,A
+S008,Henry Ford,henry.f@university.edu,History,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-01-27,C
+S005,Eve Adams,eve.a@university.edu,Physics,PHY300,Quantum Mechanics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-01-28,B
+S001,Alice Johnson,alice.j@university.edu,Computer Science,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-01-29,A
+S029,Student 29,student.29@university.edu,History,PHY100,Intro to Mechanics,3,I60,Dr. Curie,curie@university.edu,Physics,2025-02-12,D
+S032,Student 32,student.32@university.edu,Computer Science,HIS202,Renaissance History,3,I30,Dr. Allen,allen@university.edu,History,2025-02-24,D
+S011,Student 11,student.11@university.edu,Physics,PHY300,Quantum Mechanics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-08,B
+S038,Student 38,student.38@university.edu,Computer Science,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-03,A
+S033,Student 33,student.33@university.edu,Physics,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-13,D
+S020,Student 20,student.20@university.edu,History,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-02-27,D
+S018,Student 18,student.18@university.edu,Computer Science,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-01,A
+S048,Student 48,student.48@university.edu,Computer Science,PHY401,General Relativity,4,I60,Dr. Curie,curie@university.edu,Physics,2025-02-18,A
+S015,Student 15,student.15@university.edu,Computer Science,HIS301,Modern History,3,I70,Dr. Marx,marx@university.edu,History,2025-02-28,B
+S049,Student 49,student.49@university.edu,Data Science,CS310,Operating Systems,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-01,D
+S022,Student 22,student.22@university.edu,Data Science,PHY100,Intro to Mechanics,3,I60,Dr. Curie,curie@university.edu,Physics,2025-02-11,A
+S012,Student 12,student.12@university.edu,Data Science,CS404,Advanced Algorithms,3,I50,Dr. Turing,turing@university.edu,Computer Science,2025-02-12,B
+S025,Student 25,student.25@university.edu,Computer Science,PHY300,Quantum Mechanics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-01,D
+S019,Student 19,student.19@university.edu,Data Science,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-02,B
+S042,Student 42,student.42@university.edu,History,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-01,A
+S028,Student 28,student.28@university.edu,Physics,PHY401,General Relativity,4,I60,Dr. Curie,curie@university.edu,Physics,2025-02-08,B
+S039,Student 39,student.39@university.edu,Data Science,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-09,A
+S009,Student 9,student.9@university.edu,Data Science,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-14,B
+S045,Student 45,student.45@university.edu,Physics,HIS202,Renaissance History,3,I30,Dr. Allen,allen@university.edu,History,2025-02-01,C
+S031,Student 31,student.31@university.edu,History,CS404,Advanced Algorithms,3,I50,Dr. Turing,turing@university.edu,Computer Science,2025-02-26,A
+S013,Student 13,student.13@university.edu,History,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-02-04,A
+S023,Student 23,student.23@university.edu,History,CS310,Operating Systems,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-18,C
+S030,Student 30,student.30@university.edu,Data Science,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-23,A
+S041,Student 41,student.41@university.edu,Computer Science,PHY100,Intro to Mechanics,3,I60,Dr. Curie,curie@university.edu,Physics,2025-02-22,A
+S010,Student 10,student.10@university.edu,Computer Science,HIS301,Modern History,3,I70,Dr. Marx,marx@university.edu,History,2025-02-06,A
+S036,Student 36,student.36@university.edu,Data Science,PHY401,General Relativity,4,I60,Dr. Curie,curie@university.edu,Physics,2025-02-21,C
+S026,Student 26,student.26@university.edu,Data Science,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-06,C
+S043,Student 43,student.43@university.edu,Physics,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-15,A
+S035,Student 35,student.35@university.edu,Computer Science,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-25,A
+S016,Student 16,student.16@university.edu,Physics,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-02-19,F
+S021,Student 21,student.21@university.edu,Computer Science,PHY300,Quantum Mechanics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-05,B
+S046,Student 46,student.46@university.edu,Data Science,CS404,Advanced Algorithms,3,I50,Dr. Turing,turing@university.edu,Computer Science,2025-02-07,F
+S034,Student 34,student.34@university.edu,History,DS301,Machine Learning,4,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-10,A
+S017,Student 17,student.17@university.edu,Data Science,CS310,Operating Systems,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-16,C
+S040,Student 40,student.40@university.edu,Physics,HIS301,Modern History,3,I70,Dr. Marx,marx@university.edu,History,2025-02-17,B
+S024,Student 24,student.24@university.edu,Physics,HIS202,Renaissance History,3,I30,Dr. Allen,allen@university.edu,History,2025-02-20,A
+S047,Student 47,student.47@university.edu,History,PHY100,Intro to Mechanics,3,I60,Dr. Curie,curie@university.edu,Physics,2025-02-04,A
+S014,Student 14,student.14@university.edu,Physics,CS101,Intro to Programming,3,I10,Dr. Smith,smith@university.edu,Computer Science,2025-02-07,C
+S027,Student 27,student.27@university.edu,History,CS202,Data Structures,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-19,F
+S050,Student 50,student.50@university.edu,Physics,PHY201,Modern Physics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-02,A
+S037,Student 37,student.37@university.edu,Computer Science,HIS101,World History I,3,I30,Dr. Allen,allen@university.edu,History,2025-02-11,B
+S044,Student 44,student.44@university.edu,Computer Science,PHY300,Quantum Mechanics,4,I40,Dr. Feynman,feynman@university.edu,Physics,2025-02-23,A
+S004,Diana Prince,diana.p@university.edu,History,CS404,Advanced Algorithms,3,I50,Dr. Turing,turing@university.edu,Computer Science,2025-02-03,D
+S008,Henry Ford,henry.f@university.edu,History,CS310,Operating Systems,4,I20,Dr. Jones,jones@university.edu,Computer Science,2025-02-28,A
+S006,Frank Miller,frank.m@university.edu,Physics,HIS301,Modern History,3,I70,Dr. Marx,marx@university.edu,History,2025-02-26,B
+S007,Grace Hopper,grace.h@university.edu,Computer Science,PHY100,Intro to Mechanics,3,I60,Dr. Curie,curie@university.edu,Physics,2025-02-10,A
+S002,Bob Williams,bob.w@university.edu,Data Science,PHY401,General Relativity,4,I60,Dr. Curie,curie@university.edu,Physics,2025-02-25,C
